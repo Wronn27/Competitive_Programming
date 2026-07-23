@@ -11,9 +11,9 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        struct ListNode *t1=list1,*t2=list2;
-        struct ListNode *dum=new struct ListNode(-1);
-        struct ListNode *temp=dum;
+        ListNode *t1=list1,*t2=list2;
+        ListNode *dum=new ListNode(-1);
+        ListNode *temp=dum;
         
         
         if(list1==NULL) return list2;
@@ -41,6 +41,5 @@ public:
         list1=dum->next;
         delete(dum);
         return list1;
-        
     }
 };
