@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Wronn27/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Wronn27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Wronn27/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Wronn27/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Wronn27/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Wronn27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wronn27/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Wronn27/Leetcode/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Wronn27/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Wronn27/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Wronn27/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Wronn27/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
